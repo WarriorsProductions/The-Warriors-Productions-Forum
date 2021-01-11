@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<HEAD>
+    <TITLE>The Warriors Productions</TITLE>
+    <meta charset="UTC-8">
+</HEAD>
+<p>Welcome to The Warriors Productions Official Website!</p>
+<a href="http://www.youtube.com/channel/UCffaVyXXXXTP3vXZIFk-_VA"><button>Click me</button></a>
+
+<br>
+<img src="Warrior.jpg" alt="Suggestions">
+<input type="text" placeholder="Enter your name">
+<label>Email</label>
+<input type="email">
+<label for="Username">Username</label>
+<input id="Username" type="text">
